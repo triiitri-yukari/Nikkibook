@@ -1,0 +1,21 @@
+# Personal NikkiBook collection
+/images/
+/thumbs/
+/nikkibook.db
+
+# Debug and local Python artifacts
+/debug_output/
+/debug_snap.py
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller working directories
+/build/
+/dist/
+
+# Generated portable release artifacts
+/release/
+
+# Local Windows shortcut
+/NikkiBook Admin.lnk
