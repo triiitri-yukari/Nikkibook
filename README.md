@@ -44,7 +44,7 @@
 
 ## English
 
-**Unlimited Nikki Offline Album (Coord Sharing and Storage)**
+**Infinity Nikki Offline Album (Coord Sharing and Storage)**
 
 #### 📥 Installation
 
