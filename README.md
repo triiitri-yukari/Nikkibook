@@ -72,7 +72,7 @@ Buy me a bubble tea: [buymeamilktea](https://buymeacoffee.com/triiitri)
 
 ## 日本語
 
-**無限ニキ オフラインアルバム（コーデコード記録ツール）**
+**インフィニティニキ オフラインアルバム（コーデコード記録ツール）**
 
 #### 📥 インストール
 
