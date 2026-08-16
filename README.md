@@ -16,7 +16,7 @@
 
 #### 📥 获取与安装
 
-1. 在 [Releases](https://github.com/triiitri-yukari/Nikkibook/releases/tag/Nikkibook_packed) 页面下载并解压最新版本后，直接运行即可。
+1. 在 [Releases](https://github.com/triiitri-yukari/Nikkibook/releases) 页面下载并解压最新版本后，直接运行即可。
 
 2. **内附说明书**：具体操作指南及自动截图配置说明，请查阅包内 **Getting started.txt** 离线文档。
 
@@ -48,7 +48,7 @@
 
 #### 📥 Installation
 
-1. Download and unzip the latest version from the [Releases](https://github.com/triiitri-yukari/Nikkibook/releases/tag/Nikkibook_packed) page, then run the executable.
+1. Download and unzip the latest version from the [Releases](https://github.com/triiitri-yukari/Nikkibook/releases) page, then run the executable.
 
 2. **User Guide**: For detailed instructions and auto-screenshot configuration, please refer to the **Getting started.txt** file included in the package.
 
@@ -76,7 +76,7 @@ Buy me a bubble tea: [buymeamilktea](https://buymeacoffee.com/triiitri)
 
 #### 📥 インストール
 
-1. [Releases](https://github.com/triiitri-yukari/Nikkibook/releases/tag/Nikkibook_packed) ページから最新版をダウンロードして解凍し、そのまま実行してください。
+1. [Releases](https://github.com/triiitri-yukari/Nikkibook/releases) ページから最新版をダウンロードして解凍し、そのまま実行してください。
 
 2. **マニュアル**：操作方法や自動スクリーンショットの設定については、同梱の **Getting started.txt** をご参照ください。
 

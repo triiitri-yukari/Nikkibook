@@ -1,3 +1,9 @@
+Styled by Triii Yukari:
+https://github.com/triiitri-yukari
+https://x.com/triiiyukari
+https://buymeacoffee.com/triiitri
+
+
 NikkiBook Portable
 ==================
 
@@ -25,8 +31,9 @@ Snap Workflow — your tiny button-finding helper
    pixels, with a 450-pixel left offset. The width, height, and offset in
    Settings are pixels from the live game screenshot, not pixels from the
    clue PNG.
-3. Playing on another resolution or display scale? If Snap has trouble finding
-   the buttons, replace the PNGs in assets clicker\ with fresh little screenshots
+3. Snap's default game resolution is 1600 × 900. If you play at another
+   resolution or display scale and Snap has trouble finding the buttons, replace
+   the PNGs in assets clicker\ with fresh little screenshots
    from your own game screen. Keep the original filenames — share.png,
    cropicon.png, xinghuituce.png, qianwangfenxiang.png, and copysharelink.png.
    Snap will then know what your buttons look like. ✨
@@ -65,8 +72,9 @@ Snap 工作流——帮你找按钮的小助手
    右下角当作小小的定位点，再从那里向左、向上截取一块区域。默认大小是
    450 × 600 像素，向左偏移 450 像素。设置里的宽度、高度和偏移量，指的是
    游戏画面截图上的像素，不是提示 PNG 图片本身的大小。
-3. 如果你的分辨率或显示缩放不一样，Snap 找不到按钮时，可以把 assets clicker\
-   里的 PNG 换成自己游戏画面的新小截图。文件名保持不变：share.png、
+3. Snap 默认使用 1600 × 900 的游戏分辨率。如果你的分辨率或显示缩放不一样，
+   Snap 找不到按钮时，可以把 assets clicker\ 里的 PNG 换成自己游戏画面的新小截图。
+   文件名保持不变：share.png、
    cropicon.png、xinghuituce.png、qianwangfenxiang.png 和 copysharelink.png。
    这样 Snap 就能认出你的按钮啦。✨
 
@@ -105,8 +113,9 @@ Snap ワークフロー — ボタン探しのお手伝い
    アイコンの右下を目印にして、そこから左上へ長方形を切り取ります。既定の
    サイズは 450 × 600 ピクセル、左オフセットは 450 ピクセルです。設定の幅・
    高さ・オフセットは、目印 PNG のサイズではなく、ゲーム画面のピクセルです。
-3. 解像度や表示倍率が違ってボタンを見つけにくいときは、assets clicker\ の
-   PNG を自分のゲーム画面から撮った小さな画像に交換してください。ファイル名
+3. Snap の標準ゲーム解像度は 1600 × 900 です。別の解像度や表示倍率で
+   ボタンを見つけにくいときは、assets clicker\ の PNG を自分のゲーム画面から
+   撮った小さな画像に交換してください。ファイル名
    は share.png、cropicon.png、xinghuituce.png、qianwangfenxiang.png、
    copysharelink.png のままにします。これで Snap があなたのボタンを覚えます。✨
 
